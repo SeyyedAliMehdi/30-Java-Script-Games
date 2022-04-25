@@ -3,9 +3,8 @@
 
 | #  | Game Name |
 | ------------- | ------------- |
-| 0  | Tic-Toc-Toe |
-| 1  | Puzzle |
-| 2  |  |
+| 1  | Tic-Toc-Toe |
+| 2  | Puzzle |
 | 3  |  |
 | 4  |  |
 | 5  |  |
